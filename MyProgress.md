@@ -12,4 +12,5 @@
                                 }
                             }
 
-7. 
+# Linked list
+7. 203 Remove linked list element
